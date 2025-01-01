@@ -1,15 +1,15 @@
 # Data Analytics - Bellabeat Fitness Tracking App Analysis
-A capstone project after completing the Google Data Analytics Professional Certificate involves analyzing Fitbit fitness tracker usage data to find insights relevant to Bellabeat, a wellness technology company.
+After completing the Google Data Analytics Professional Certificate, a capstone project involves analyzing Fitbit fitness tracker usage data to find insights relevant to Bellabeat, a wellness technology company.
 
 Bellabeat
 
-This analysis serves as the Capstone project for the Google Data Analytics Professional Certificate on Coursera. It explores the FitBit fitness tracker usage data to extract insights relevant to Bellabeat, a wellness technology company specializing in health-focused smart products for women.
+This analysis serves as the Capstone project for the Google Data Analytics Professional Certificate on Coursera. It explores the Fitbit fitness tracker usage data to extract insights relevant to Bellabeat, a wellness technology company specializing in health-focused smart products for women.
 
 # Project Background
-Bellabeat, established in 2013, aims to inspire and empower women with knowledge about their health and habits. Co-founder and Chief Creative Officer, Urška Sršen, seeks opportunities for growth by analyzing non-Bellabeat consumer data, specifically FitBit fitness tracker usage data.
+Bellabeat, established in 2013, aims to inspire and empower women with knowledge about their health and habits. Co-founder and Chief Creative Officer Urška Sršen seeks opportunities for growth by analyzing non-Bellabeat consumer data, specifically FitBit fitness tracker usage data.
 
 # Business Task
-The primary objective is to analyze FitBit Fitness Tracker App data to gain insights into consumer behavior and identify trends pertinent to Bellabeat's marketing strategy.
+The primary objective is to analyze Fitbit Fitness Tracker App data to gain insights into consumer behavior and identify trends pertinent to Bellabeat's marketing strategy.
 
 # Business Objectives
 Identify Trends: Discover trends in FitBit app usage and their implications.
@@ -22,8 +22,9 @@ Python was employed for data cleaning, transformation, visualization, and analys
 The data set is publicly available on Kaggle.
 
 # Google Data Analytics Professional Certificate:
-[Coursera](https://coursera.org/share/4964608cb11e4e9848f6ed0ba953b5bc)
+<img width="536" alt="Screenshot 2025-01-01 at 3 00 17 PM" src="https://github.com/user-attachments/assets/6f9afe85-5a95-4856-b994-8bb3e5a9decf" />
 
-# Skills Gain
-Upon completion, learners gain expertise in various areas including data cleansing, analysis, visualization, and programming languages like R. Additionally, skills in data ethics, SQL, Tableau, structured thinking, and data integrity are acquired.
+
+# Tools Used for Project
+For this project's completion, the data extracted from the Fitbit data is cleaned, analyzed, and used to make visualizations using Python Jupyter. NumPy, Pandas, and matplotlib are the libraries primarily used to diagnose this project.
 
